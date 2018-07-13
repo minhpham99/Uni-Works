@@ -1,0 +1,589 @@
+capital,Afghanistan,Kabul
+capital,Albania,Tirana
+capital,Algeria,Algiers
+capital,Andorra,Andorra La Vella
+capital,Angola,Luanda
+capital,Antigua & Barbuda,Saint John's
+capital,Argentina,Buenos Aires
+capital,Armenia,Yerevan
+capital,Australia,Canberra
+capital,Austria,Vienna
+capital,Azerbaijan,Baku
+capital,Bahamas,Nassau
+capital,Bahrain,Manama
+capital,Bangladesh,Dhaka
+capital,Barbados,Bridgetown
+capital,Belarus,Minsk
+capital,Belgium,Brussels
+capital,Belize,Belmopan
+capital,Benin,Porto-Novo
+capital,Bhutan,Thimphy
+capital,Bolivia,Sucre
+capital,Bosnia & Herzegovina,Sarajevo
+capital,Botswana,Garborone
+capital,Brazil,Brasilia
+capital,Brunei,Bandar Seri Begawan
+capital,Bulgaria,Sofia
+capital,Burkina Faso,Ouagadougou
+capital,Burundi,Bujumbura
+capital,Cape Verde,Praia
+capital,Cambodia,Pnhom Penh
+capital,Cameroon,Yaounde
+capital,Canada,Ottawa
+capital,Central African Republic,Bangui
+capital,Chad,N'Djamena
+capital,Chile,Santiago
+capital,China,Beijing
+capital,Colombia,Bogota
+capital,Comoros,Moroni
+capital,Congo,Kinshasa
+capital,Costa Rica,San Jose
+capital,Croatia,Zagreb
+capital,Cuba,Havana
+capital,Cyprus,Nicosia
+capital,Czech,Prague
+capital,Denmark,Copenhagen
+capital,Djibouti,Djibouti
+capital,Dominica,Roseau
+capital,Dominican Republic,Santo Domingo
+capital,Ecuador,Quito
+capital,Egypt,Cairo
+capital,El Salvador,San Salvador
+capital,Equatorial Guinea,Malabo
+capital,Eritrea,Asmara
+capital,Estonia,Tallinn
+capital,Ethiopia,Addis Ababa
+capital,Federated State of Micronesia,Palikir
+capital,Fiji,Suva
+capital,Finland,Helsinki
+capital,France,Paris
+capital,Gabon,Libreville
+capital,Gambia,Banjul
+capital,Georgia,Tbilisi
+capital,Germany,Berlin
+capital,Ghana,Accra
+capital,Greece,Athens
+capital,Grenada,Saint George's
+capital,Guatemala,Guatemala City
+capital,Guinea,Conakry
+capital,Guinea-Bissau,Bissau
+capital,Guyana,Georgetown
+capital,Haiti,Port-Au-Prince
+capital,Honduras,Tegucigalpa
+capital,Hungary,Budapest
+capital,Iceland,Reykjavik
+capital,India,New Delhi
+capital,Indonesia,Jakarta
+capital,Iran,Tehran
+capital,Iraq,Baghdad
+capital,Ireland,Dublin
+capital,Israel,Jerusalem & Tel Aviv
+capital,Italy,Rome
+capital,Ivory Coast,Yamoussoukro
+capital,Jamaica,Kingston
+capital,Japan,Tokyo
+capital,Jordan,Amman
+capital,Kazkhstan,Astana
+capital,Kenya,Nairobi
+capital,Kiribati,South Tarawa
+capital,Kosovo,Pristina
+capital,Kuwait,Kuwait City
+capital,Kyrgyzstan,Bishkek
+capital,Laos,Vientiane
+capital,Latvia,Riga
+capital,Lebanon,Beirut
+capital,Lesotho,Maseru
+capital,Liberia,Monrovia
+capital,Libya,Tripoli
+capital,Lichtenstein,Vaduz
+capital,Lithuania,Vilnius
+capital,Luxembourg,Luxembourg
+capital,Macedonia,Skopje
+capital,Madagascar,Antananarivo
+capital,Malawai,Lilongwe
+capital,Malaysia,Kualar Lumpur
+capital,Maldives,Male
+capital,Mali,Bamako
+capital,Malta,Valletta
+capital,Marshall Islands,Majuro
+capital,Mauritania,Nouakchott
+capital,Mauritius,Port Louis
+capital,Mexico,Mexico City
+capital,Moldova,Chisinau
+capital,Monaco,Monaco
+capital,Mongolia,Ulaanbaatar
+capital,Montenegro,Podgorica
+capital,Morocco,Rabat
+capital,Mozambique,Maputo
+capital,Myanmar,Nay Pyi Taw
+capital,Namibia,Windhoek
+capital,Nauru,Yaren District
+capital,Nepal,Kathmandu
+capital,Netherlands,Amsterdam
+capital,New Zealand,Wellington
+capital,Nicaragua,Managua
+capital,Niger,Niamey
+capital,Nigeria,Abuja
+capital,North Korea,Pyongyang
+capital,Norway,Oslo
+capital,Oman,Muscat
+capital,Pakistan,Islamabad
+capital,Palau,Ngerulmud
+capital,Palestine,Jerusalem & Ramallah
+capital,Panama,Panama City
+capital,Papua New Guinea,Port Moresby
+capital,Paraguay,Asunción
+capital,Peru,Lima
+capital,Philippines,Manila
+capital,Poland,Warsaw
+capital,Portugal,Lisbon
+capital,Qatar,Doha
+capital,Republic of the Congo,Brazzaville
+capital,Romania,Bucharest
+capital,Russia,Moscow
+capital,Rwanada,Kigali
+capital,Sain Kitts & Nevis,Basseterre
+capital,Saint Lucia,Castries
+capital,Saint Vincent & The Grenadines,Kingstown
+capital,Samoa,Apia
+capital,San Marino,San Marino
+capital,São Tomé & Príncipe,São Tomé
+capital,Saudi Arabia,Riyadh
+capital,Senegal,Dakar
+capital,Serbia,Belgrade
+capital,Seychelles,Victoria
+capital,Sierra Leone,Freetown
+capital,Singapore,Singapore
+capital,Slovakia,Bratislava
+capital,Slovenia,Ljubljana
+capital,Solomon Islands,Honiara
+capital,Somalia,Mogadishu
+capital,South Africa,Bloemfontein, Cape Town & Pretoria
+capital,South Korea,Seoul
+capital,South Sudan,Juba
+capital,Spain,Madrid
+capital,Sri Lanka,Colombo & Sri Jayawardenepura Kotte
+capital,Sudan,Khartoum
+capital,Suriname,Paramaribo
+capital,Swaziland,Mbabane
+capital,Sweden,Stockholm
+capital,Switzerland,Bern
+capital,Syria,Damascus
+capital,Taiwan,Taipei
+capital,Tajikistan,Dushanbe
+capital,Tanzania,Dodoma
+capital,Thailand,Bangkok
+capital,Timor-Leste,Dili
+capital,Togo,Lomé
+capital,Tonga,Nuku'Alofa
+capital,Trinidad & Tobago,Port of Spain
+capital,Tunisia,Tunis
+capital,Turkey,Ankara
+capital,Turkmenistan,Ashgabat
+capital,Tuvalu,Funafuti
+capital,Uganda,Kampala
+capital,Ukraine,Kiev
+capital,United Arab Emirates,Abu Dhabi
+capital,United Kingdom,London
+capital,United States,Washington D.C
+capital,Uruguay,Montevideo
+capital,Uzbekistan,Tashkent
+capital,Vanuatu,Port Vila
+capital,Vatican,Vatican City
+capital,Venezuela,Caracas
+capital,Vietnam,Hanoi
+capital,Yemen,Sana'a
+capital,Zambia,Lusaka
+capital,Zimbabwe,Harare
+where,Afghanistan,Asia
+where,Albania,Europe
+where,Algeria,Africa
+where,Andorra,Europe
+where,Angola,Africa
+where,Antigua & Barbuda,North America
+where,Argentina,South America
+where,Armenia,Asia/Europe
+where,Australia,Australia
+where,Austria,Europe
+where,Azerbaijan,Asia/Europe
+where,Bahamas,North America
+where,Bahrain,Asia
+where,Bangladesh,Asia
+where,Barbados,North America
+where,Belarus,Europe
+where,Belgium,Europe
+where,Belize,North America
+where,Benin,Africa
+where,Bhutan,Asia
+where,Bolivia,South America
+where,Bosnia & Herzegovina,Europe
+where,Botswana,Africa
+where,Brazil,South America
+where,Brunei,Asia
+where,Bulgaria,Europe
+where,Burkina Faso,Africa
+where,Burundi,Africa
+where,Cape Verde,Africa
+where,Cambodia,Asia
+where,Cameroon,Africa
+where,Canada,North America
+where,Central African Republic,Africa
+where,Chad,Africa
+where,Chile,South America
+where,China,Asia
+where,Colombia,South America
+where,Comoros,Africa
+where,Congo,Africa
+where,Costa Rica,North America
+where,Croatia,Europe
+where,Cuba,South America
+where,Cyprus,Europe
+where,Czech,Europe
+where,Denmark,Europe
+where,Djibouti,Africa
+where,Dominica,North America
+where,Dominican Republic,North America
+where,Ecuador,South America
+where,Egypt,Africa
+where,El Salvador,North America
+where,Equatorial Guinea,Africa
+where,Eritrea,Africa
+where,Estonia,Europe
+where,Ethiopia,Africa
+where,Federated State of Micronesia,Oceania
+where,Fiji,Oceania
+where,Finland,Europe
+where,France,Europe
+where,Gabon,Africa
+where,Gambia,Africa
+where,Georgia,Asia/Europe
+where,Germany,Europe
+where,Ghana,Africa
+where,Greece,Europe
+where,Grenada,North America
+where,Guatemala,North America
+where,Guinea,Africa
+where,Guinea-Bissau,Africa
+where,Guyana,South America
+where,Haiti,North America
+where,Honduras,North America
+where,Hungary,Europe
+where,Iceland,Europe
+where,India,Asia
+where,Indonesia,Asia
+where,Iran,Asia
+where,Iraq,Asia
+where,Ireland,Europe
+where,Israel,Asia
+where,Italy,Asia
+where,Ivory Coast,Africa
+where,Jamaica,North America
+where,Japan,Asia
+where,Jordan,Africa
+where,Kazkhstan,Asia/Europe
+where,Kenya,Africa
+where,Kiribati,Oceania
+where,Kosovo,Europe
+where,Kuwait,Asia
+where,Kyrgyzstan,Asia
+where,Laos,Asia
+where,Latvia,Europe
+where,Lebanon,Asia
+where,Lesotho,Africa
+where,Liberia,Africa
+where,Libya,Africa
+where,Liechtenstein,Europe
+where,Lithuania,Europe
+where,Luxembourg,Europe
+where,Macedonia,Europe
+where,Madagascar,Africa
+where,Malawai,Africa
+where,Malaysia,Asia
+where,Maldives,Asia
+where,Mali,Africa
+where,Malta,Europe
+where,Marshall Islands,Oceania
+where,Mauritania,Africa
+where,Mauritius,Africa
+where,Mexico,North America
+where,Moldova,Europe
+where,Monaco,Europe
+where,Mongolia,Asia
+where,Montenegro,Europe
+where,Morocco,Africa
+where,Mozambique,Africa
+where,Myanmar,Asia
+where,Namibia,Africa
+where,Nauru,Oceania
+where,Nepal,Asia
+where,Netherlands,Europe
+where,New Zealand,Oceania
+where,Nicaragua,North America
+where,Niger,Africa
+where,Nigeria,Africa
+where,North Korea,Asia
+where,Norway,Europe
+where,Oman,Africa
+where,Pakistan,Asia
+where,Palau,Oceania
+where,Palestine,Asia
+where,Panama,North America
+where,Papua New Guinea,Oceania
+where,Paraguay,South America
+where,Peru,South America
+where,Philippines,Asia
+where,Poland,Europe
+where,Portugal,Europe
+where,Qatar,Asia
+where,Republic of the Congo,Africa
+where,Romania,Europe
+where,Russia,Europe
+where,Rwanada,Africa
+where,Sain Kitts & Nevis,North America
+where,Saint Lucia,North America
+where,Saint Vincent & The Grenadines,North America
+where,Samoa,Oceania
+where,San Marino,Europe
+where,São Tomé & Príncipe,Africa
+where,Saudi Arabia,Asia
+where,Senegal,Africa
+where,Serbia,Europe
+where,Seychelles,Africa
+where,Sierra Leone,Africa
+where,Singapore,Asia
+where,Slovakia,Europe
+where,Slovenia,Europe
+where,Solomon Islands,Oceania
+where,Somalia,Africa
+where,South Africa,Africa
+where,South Korea,Africa
+where,South Sudan,Africa
+where,Spain,Europe
+where,Sri Lanka,Asia
+where,Sudan,Africa
+where,Suriname,South America
+where,Swaziland,Africa
+where,Sweden,Europe
+where,Switzerland,Europe
+where,Syria,Asia
+where,Tajikistan,Asia
+where,Tanzania,Africa
+where,Thailand,Asia
+where,Timor-Leste,Asia
+where,Togo,Africa
+where,Tonga,Oceania
+where,Trinidad & Tobago,North America
+where,Tunisia,Africa
+where,Turkey,Asia/Europe
+where,Turkmenistan,Asia
+where,Tuvalu,Oceania
+where,Uganda,Africa
+where,Ukraine,Europe
+where,United Arab Emirates,Asia
+where,United Kingdom,Europe
+where,United States,North America
+where,Uruguay,South America
+where,Uzbekistan,Asia
+where,Vanuatu,Oceania
+where,Vatican,Europe
+where,Venezuela,South America
+where,Vietnam,Asia
+where,Yemen,Asia
+where,Zambia,Africa
+where,Zimbabwe,Africa
+population,Afghanistan,36,373,176
+population,Albania,2,934,363
+population,Algeria,42,008,054
+population,Andorra,76,953
+population,Angola,30,774,205
+population,Antigua & Barbuda,103,050
+population,Argentina,44,688,864
+population,Armenia,2,934,152
+population,Australia,24,772,247
+population,Austria,8,751,820
+population,Azerbaijan,9,923,914
+population,Bahamas,399,285
+population,Bahrain,1,566,993
+population,Bangladesh,166,368,149
+population,Barbados,286,388
+population,Belarus,9,452,113
+population,Belgium,11,498,519
+population,Belize,382,444
+population,Benin,11,485,674
+population,Bhutan,817,054
+population,Bolivia,11,215,674
+population,Bosnia & Herzegovina,3,503,554
+population,Botswana,2,333,201
+population,Brazil,210,867,954
+population,Brunei,434,076
+population,Bulgaria,7,036,848
+population,Burkina Faso,19,751,651
+population,Burundi,11,216,450
+population,Cape Verde,553,335
+population,Cambodia,16,245,729
+population,Cameroon,24,678,234
+population,Canada,36,953,765
+population,Central African Republic,4,737,423
+population,Chad,15,353,184
+population,Chile,18,197,209
+population,China,1,415,045,928
+population,Colombia,49,464,683
+population,Comoros,832,347
+population,Congo,5,399,895
+population,Costa Rica,4,953,199
+population,Croatia,4,164,783
+population,Cuba,4,164,783
+population,Cyprus,1,189,085
+population,Czech,10,625,250
+population,Denmark,5,754,356
+population,Djibouti,971,408
+population,Dominica,74,308
+population,Dominican Republic,10,882,996
+population,Ecuador,16,863,425
+population,Egypt,99,375,741
+population,El Salvador,6,411,558
+population,Equatorial Guinea,1,313,894
+population,Eritrea,5,187,948
+population,Estonia,1,306,788
+population,Ethiopia,107,534,882
+population,Fiji,912,241
+population,Finland,5,542,517
+population,France,65,233,271
+population,Gabon,2,067,561
+population,Gambia,2,163,765
+population,Georgia,3,907,131
+population,Germany,82,293,457
+population,Ghana,29,463,643
+population,Greece,11,142,161
+population,Grenada,108,339
+population,Guatemala,17,245,346
+population,Guinea,13,052,608
+population,Guinea-Bissau,1,907,268
+population,Guyana,782,225
+population,Haiti,11,112,945
+population,Honduras,9,417,167
+population,Hungary,9,688,847
+population,Iceland,337,780
+population,India,1,354,051,854
+population,Indonesia,266,794,980
+population,Iran,82,011,735
+population,Iraq,39,339,753
+population,Ireland,4,803,748
+population,Israel,8,452,841
+population,Italy,59,290,969
+population,Ivory Coast,24,905,843
+population,Jamaica,2,898,677
+population,Japan,127,185,332
+population,Jordan,9,903,802
+population,Kazkhstan,18,403,860
+population,Kenya,50,950,879
+population,Kiribati,118,414
+population,Kosovo,1,808,500
+population,Kuwait,4,197,128
+population,Kyrgyzstan,6,132,932
+population,Laos,6,961,210
+population,Latvia,1,929,938
+population,Lebanon,6,093,509
+population,Lesotho,2,263,010
+population,Liberia,4,853,516
+population,Libya,6,470,956
+population,Liechtenstein,38,155
+population,Lithuania,2,876,475
+population,Luxembourg,590,321
+population,Macedonia,2,085,051
+population,Madagascar,26,262,810
+population,Malawai,19,164,728
+population,Malaysia,32,042,458
+population,Maldives,444,259
+population,Mali,19,107,706
+population,Malta,432,089
+population,Marshall Islands,53,167
+population,Mauritania,4,540,068
+population,Mauritius,1,268,315
+population,Mexico,130,759,074
+population,Micronesia,106,227
+population,Moldova,4,041,065
+population,Monaco,38,897
+population,Mongolia,3,121,772
+population,Montenegro,629,219
+population,Morocco,36,191,805
+population,Mozambique,30,528,673
+population,Myanmar,53,855,735
+population,Namibia,2,587,801
+population,Nauru,11,312
+population,Nepal,29,624,035
+population,Netherlands,17,084,459
+population,New Zealand,4,749,598
+population,Nicaragua,6,284,757
+population,Niger,22,311,375
+population,Nigeria,195,875,237
+population,North Korea,25,610,672
+population,Norway,5,353,363
+population,Oman,4,829,946
+population,Pakistan,200,813,818
+population,Palau,21,964
+population,Palestine,5,052,776
+population,Panama,4,162,618
+population,Papua New Guinea,8,418,346
+population,Paraguay,6,896,908
+population,Peru,32,551,815
+population,Philippines,106,512,074
+population,Poland,38,104,832
+population,Portugal,10,291,196
+population,Qatar,2,694,849
+population,Republic of the Congo,84,004,989
+population,Romania,19,580,634
+population,Russia,143,964,709
+population,Rwanada,12,501,156
+population,Sain Kitts & Nevis,55,850
+population,Saint Lucia,179,667
+population,Saint Vincent & The Grenadines,110,200
+population,Samoa,197,695
+population,San Marino,33,557
+population,Sao Tome & Principe,208,818
+population,Saudi Arabia,33,554,343
+population,Senegal,16,294,270
+population,Serbia,8,762,027
+population,Seychelles,95,235
+population,Sierra Leone,7,719,729
+population,Singapore,5,791,901
+population,Slovakia,5,449,816
+population,Slovenia,2,081,260
+population,Solomon Islands,623,281
+population,Somalia,15,181,925
+population,South Africa,57,398,421
+population,South Korea,51,164,435
+population,South Sudan,12,919,053
+population,Spain,46,397,452
+population,Sri Lanka,20,950,041
+population,Sudan,41,511,526
+population,Suriname,568,301
+population,Swaziland,1,391,385
+population,Sweden,9,982,709
+population,Switzerland,8,544,034
+population,Syria,18,284,407
+population,Tajikistan,9,107,211
+population,Tanzania,59,091,392
+population,Thailand,69,183,173
+population,Timor-Leste,1,324,094
+population,Togo,7,990,926
+population,Tonga,109,008
+population,Trinidad & Tobago,1,372,598
+population,Tunisia,11,659,174
+population,Turkey,81,916,871
+population,Turkmenistan,5,851,466
+population,Tuvalu,11,287
+population,Uganda,44,270,563
+population,Ukraine,44,009,214
+population,United Arab Emirates,9,541,615
+population,United Kingdom,66,573,504
+population,United States,326,766,748
+population,Uruguay,3,469,551
+population,Uzbekistan,32,364,996
+population,Vanuatu,282,117
+population,Vatican,840
+population,Venezuela,32,381,221
+population,Vietnam,96,491,146
+population,Yemen,28,915,284
+population,Zambia,17,609,178
+population,Zimbabwe,16,913,261
