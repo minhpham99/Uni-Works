@@ -1,0 +1,64 @@
+bang 20
+list
+draw
+name
+y
+Mr Bean
+Irma Gobb
+name
+y
+Hyacinth Bucket
+Richard Bucket
+name
+y 
+Mickey Mouse
+Minnie Mouse
+name
+y
+Mr Tough
+Mrs Tough
+name
+y
+Mr Soft
+Mrs Soft
+name
+y
+Mr Smart
+Mrs Smart
+name
+y
+Mr Weird
+Mrs Weird
+name
+y
+Mr X
+Mrs X
+name
+y
+Mr Y
+Mrs Y
+name
+y
+Mr Z
+Mrz Z
+name
+pairs
+show
+Irma Gobb
+save
+bang 100
+draw
+name
+y
+Mr New
+Mrs New
+pairs
+show
+Mr New
+load
+draw
+list
+pairs
+quit
+
+

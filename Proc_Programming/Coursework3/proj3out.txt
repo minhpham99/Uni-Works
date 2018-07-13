@@ -1,0 +1,484 @@
+>>>The Big Bang has occurred!
+>>>star 0
+coords: (29.000,5.000)
+star 1
+coords: (3.000,7.000)
+star 2
+coords: (7.000,18.000)
+star 3
+coords: (47.000,12.000)
+star 4
+coords: (28.000,22.000)
+star 5
+coords: (6.000,13.000)
+star 6
+coords: (41.000,6.000)
+star 7
+coords: (9.000,5.000)
+star 8
+coords: (52.000,29.000)
+star 9
+coords: (24.000,7.000)
+star 10
+coords: (56.000,1.000)
+star 11
+coords: (38.000,28.000)
+star 12
+coords: (30.000,2.000)
+star 13
+coords: (15.000,19.000)
+star 14
+coords: (60.000,30.000)
+star 15
+coords: (24.000,22.000)
+star 16
+coords: (52.000,13.000)
+star 17
+coords: (25.000,22.000)
+star 18
+coords: (17.000,4.000)
+star 19
+coords: (0.000,17.000)
+>>>                                                             
+                                                        .    
+                              .                              
+                                                             
+                 .                                           
+         .                   .                               
+                                         .                   
+   .                    .                                    
+                                                             
+                                                             
+                                                             
+                                                             
+                                               .             
+      .                                             .        
+                                                             
+                                                             
+                                                             
+.                                                            
+       .                                                     
+               .                                             
+                                                             
+                                                             
+                        ..  .                                
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                      .                      
+                                                    .        
+                                                            .
+>>>The closest pair of stars are no. 17 and 15
+They are 1.000 light years apart
+Would you like to name this pair (y/n)? Enter your full name:Enter your spouse full name:Congratulations a pair of stars has been named after you and your spouse
+>>>The closest pair of stars are no. 12 and 0
+They are 3.162 light years apart
+Would you like to name this pair (y/n)? Enter your full name:Enter your spouse full name:Congratulations a pair of stars has been named after you and your spouse
+>>>The closest pair of stars are no. 16 and 3
+They are 5.099 light years apart
+Would you like to name this pair (y/n)? Enter your full name:Enter your spouse full name:Congratulations a pair of stars has been named after you and your spouse
+>>>The closest pair of stars are no. 5 and 2
+They are 5.099 light years apart
+Would you like to name this pair (y/n)? Enter your full name:Enter your spouse full name:Congratulations a pair of stars has been named after you and your spouse
+>>>The closest pair of stars are no. 7 and 1
+They are 6.325 light years apart
+Would you like to name this pair (y/n)? Enter your full name:Enter your spouse full name:Congratulations a pair of stars has been named after you and your spouse
+>>>The closest pair of stars are no. 18 and 9
+They are 7.616 light years apart
+Would you like to name this pair (y/n)? Enter your full name:Enter your spouse full name:Congratulations a pair of stars has been named after you and your spouse
+>>>The closest pair of stars are no. 14 and 8
+They are 8.062 light years apart
+Would you like to name this pair (y/n)? Enter your full name:Enter your spouse full name:Congratulations a pair of stars has been named after you and your spouse
+>>>The closest pair of stars are no. 11 and 4
+They are 11.662 light years apart
+Would you like to name this pair (y/n)? Enter your full name:Enter your spouse full name:Congratulations a pair of stars has been named after you and your spouse
+>>>The closest pair of stars are no. 19 and 13
+They are 15.133 light years apart
+Would you like to name this pair (y/n)? Enter your full name:Enter your spouse full name:Congratulations a pair of stars has been named after you and your spouse
+>>>The closest pair of stars are no. 10 and 6
+They are 15.811 light years apart
+Would you like to name this pair (y/n)? Enter your full name:Enter your spouse full name:Congratulations a pair of stars has been named after you and your spouse
+>>>Sorry no pairs were found!
+Wish you a better luck in the next universe
+>>>Pair 0:
+distance: 1.000000
+star 17
+name: Mr Bean
+coords: (25.000,22.000)
+star 15
+name: Irma Gobb
+coords: (24.000,22.000)
+**************************
+Pair 1:
+distance: 3.162278
+star 12
+name: Hyacinth Bucket
+coords: (30.000,2.000)
+star 0
+name: Richard Bucket
+coords: (29.000,5.000)
+**************************
+Pair 2:
+distance: 5.099020
+star 16
+name: Mickey Mouse
+coords: (52.000,13.000)
+star 3
+name: Minnie Mouse
+coords: (47.000,12.000)
+**************************
+Pair 3:
+distance: 5.099020
+star 5
+name: Mr Tough
+coords: (6.000,13.000)
+star 2
+name: Mrs Tough
+coords: (7.000,18.000)
+**************************
+Pair 4:
+distance: 6.324555
+star 7
+name: Mr Soft
+coords: (9.000,5.000)
+star 1
+name: Mrs Soft
+coords: (3.000,7.000)
+**************************
+Pair 5:
+distance: 7.615773
+star 18
+name: Mr Smart
+coords: (17.000,4.000)
+star 9
+name: Mrs Smart
+coords: (24.000,7.000)
+**************************
+Pair 6:
+distance: 8.062258
+star 14
+name: Mr Weird
+coords: (60.000,30.000)
+star 8
+name: Mrs Weird
+coords: (52.000,29.000)
+**************************
+Pair 7:
+distance: 11.661904
+star 11
+name: Mr X
+coords: (38.000,28.000)
+star 4
+name: Mrs X
+coords: (28.000,22.000)
+**************************
+Pair 8:
+distance: 15.132746
+star 19
+name: Mr Y
+coords: (0.000,17.000)
+star 13
+name: Mrs Y
+coords: (15.000,19.000)
+**************************
+Pair 9:
+distance: 15.811388
+star 10
+name: Mr Z
+coords: (56.000,1.000)
+star 6
+name: Mrz Z
+coords: (41.000,6.000)
+**************************
+>>>Enter your full name:                                                             
+                                                        *    
+                              *                              
+                                                             
+                 *                                           
+         *                   *                               
+                                         *                   
+   *                    *                                    
+                                                             
+                                                             
+                                                             
+                                                             
+                                               *             
+      *                                             *        
+                                                             
+                                                             
+                                                             
+*                                                            
+       *                                                     
+               *                                             
+                                                             
+                                                             
+                        **  *                                
+                Mr Bean & Irma Gobb                          
+                                                             
+                                                             
+                                                             
+                                                             
+                                      *                      
+                                                    *        
+                                                            *
+>>>Thanks, you have saved the universe!
+>>>The Big Bang has occurred!
+>>>  .    .     ..                                    .  .  .   
+         .               . .          .                     .
+           .  . .           ..        .     .            .   
+             .  ..                                           
+                         .               .          .        
+            .  .                         .                .  
+                                                             
+    .               .                    .                   
+                         .         . .                       
+                   .                                     .   
+ .                         .                             .   
+            .                                                
+                  .       ..     .                           
+ .                           .               .               
+     .                                .                     .
+ . .    .     .         .          .         .               
+                                 .     .                     
+                               .                             
+      . . .           .       .              .               
+                             .       ..                      
+          .                                                  
+      .  .             .                    .   .           .
+             .                                              .
+                                                             
+   . .           .                                           
+     .                             .                         
+ .                          . .          .                  .
+      .             .  .                                     
+                           .            .                    
+                                   .  .       .              
+                            .        .                       
+>>>The closest pair of stars are no. 98 and 15
+They are 1.000 light years apart
+Would you like to name this pair (y/n)? Enter your full name:Enter your spouse full name:Congratulations a pair of stars has been named after you and your spouse
+>>>Pair 0:
+distance: 1.000000
+star 98
+name: Mr New
+coords: (27.000,12.000)
+star 15
+name: Mrs New
+coords: (26.000,12.000)
+**************************
+>>>Enter your full name:  .    .     ..                                    .  .  .   
+         .               . .          .                     .
+           .  . .           ..        .     .            .   
+             .  ..                                           
+                         .               .          .        
+            .  .                         .                .  
+                                                             
+    .               .                    .                   
+                         .         . .                       
+                   .                                     .   
+ .                         .                             .   
+            .                                                
+                  .       **     .                           
+ .                 Mr New & Mrs New          .               
+     .                                .                     .
+ . .    .     .         .          .         .               
+                                 .     .                     
+                               .                             
+      . . .           .       .              .               
+                             .       ..                      
+          .                                                  
+      .  .             .                    .   .           .
+             .                                              .
+                                                             
+   . .           .                                           
+     .                             .                         
+ .                          . .          .                  .
+      .             .  .                                     
+                           .            .                    
+                                   .  .       .              
+                            .        .                       
+>>>Congratulations, your saved universe was restored!
+>>>                                                             
+                                                        *    
+                              *                              
+                                                             
+                 *                                           
+         *                   *                               
+                                         *                   
+   *                    *                                    
+                                                             
+                                                             
+                                                             
+                                                             
+                                               *             
+      *                                             *        
+                                                             
+                                                             
+                                                             
+*                                                            
+       *                                                     
+               *                                             
+                                                             
+                                                             
+                        **  *                                
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                      *                      
+                                                    *        
+                                                            *
+>>>star 0
+name: Richard Bucket
+coords: (29.000,5.000)
+star 1
+name: Mrs Soft
+coords: (3.000,7.000)
+star 2
+name: Mrs Tough
+coords: (7.000,18.000)
+star 3
+name: Minnie Mouse
+coords: (47.000,12.000)
+star 4
+name: Mrs X
+coords: (28.000,22.000)
+star 5
+name: Mr Tough
+coords: (6.000,13.000)
+star 6
+name: Mrz Z
+coords: (41.000,6.000)
+star 7
+name: Mr Soft
+coords: (9.000,5.000)
+star 8
+name: Mrs Weird
+coords: (52.000,29.000)
+star 9
+name: Mrs Smart
+coords: (24.000,7.000)
+star 10
+name: Mr Z
+coords: (56.000,1.000)
+star 11
+name: Mr X
+coords: (38.000,28.000)
+star 12
+name: Hyacinth Bucket
+coords: (30.000,2.000)
+star 13
+name: Mrs Y
+coords: (15.000,19.000)
+star 14
+name: Mr Weird
+coords: (60.000,30.000)
+star 15
+name: Irma Gobb
+coords: (24.000,22.000)
+star 16
+name: Mickey Mouse
+coords: (52.000,13.000)
+star 17
+name: Mr Bean
+coords: (25.000,22.000)
+star 18
+name: Mr Smart
+coords: (17.000,4.000)
+star 19
+name: Mr Y
+coords: (0.000,17.000)
+>>>Pair 0:
+distance: 1.000000
+star 17
+name: Mr Bean
+coords: (25.000,22.000)
+star 15
+name: Irma Gobb
+coords: (24.000,22.000)
+**************************
+Pair 1:
+distance: 3.162278
+star 12
+name: Hyacinth Bucket
+coords: (30.000,2.000)
+star 0
+name: Richard Bucket
+coords: (29.000,5.000)
+**************************
+Pair 2:
+distance: 5.099020
+star 16
+name: Mickey Mouse
+coords: (52.000,13.000)
+star 3
+name: Minnie Mouse
+coords: (47.000,12.000)
+**************************
+Pair 3:
+distance: 5.099020
+star 5
+name: Mr Tough
+coords: (6.000,13.000)
+star 2
+name: Mrs Tough
+coords: (7.000,18.000)
+**************************
+Pair 4:
+distance: 6.324555
+star 7
+name: Mr Soft
+coords: (9.000,5.000)
+star 1
+name: Mrs Soft
+coords: (3.000,7.000)
+**************************
+Pair 5:
+distance: 7.615773
+star 18
+name: Mr Smart
+coords: (17.000,4.000)
+star 9
+name: Mrs Smart
+coords: (24.000,7.000)
+**************************
+Pair 6:
+distance: 8.062258
+star 14
+name: Mr Weird
+coords: (60.000,30.000)
+star 8
+name: Mrs Weird
+coords: (52.000,29.000)
+**************************
+Pair 7:
+distance: 11.661904
+star 11
+name: Mr X
+coords: (38.000,28.000)
+star 4
+name: Mrs X
+coords: (28.000,22.000)
+**************************
+Pair 8:
+distance: 15.132746
+star 19
+name: Mr Y
+coords: (0.000,17.000)
+star 13
+name: Mrs Y
+coords: (15.000,19.000)
+**************************
+Pair 9:
+distance: 15.811388
+star 10
+name: Mr Z
+coords: (56.000,1.000)
+star 6
+name: Mrz Z
+coords: (41.000,6.000)
+**************************
+>>>
